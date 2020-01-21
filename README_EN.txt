@@ -50,6 +50,9 @@ The original library patched to add these files:
 
   * changelog file
   * readme file
+  * cmake list file
+    Cmake scripts uses the cmake modules from the tacklelib library:
+    https://svn.code.sf.net/p/tacklelib/tacklelib/trunk/cmake/tacklelib
 
 -------------------------------------------------------------------------------
 2. LICENSE
