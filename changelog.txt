@@ -1,3 +1,6 @@
+2020.01.24:
+* changed: cutted off the version reference from the readme file as may change frequently
+
 2020.01.21:
 * new: library at release 5.2.4 commit #b5be61cc06088bb07f488f9baf7d447ff47b37c1 (2018.04.29) from https://git.tukaani.org/xz.git (https://git.tukaani.org/?p=xz.git;a=commit;h=b5be61cc06088bb07f488f9baf7d447ff47b37c1 )
 * new: cmake list file

@@ -1,5 +1,5 @@
 * README_EN.txt
-* 2020.01.21
+* 2020.01.24
 * tacklelib--3dparty--xzutils
 
 1. DESCRIPTION
@@ -17,9 +17,6 @@ https://git.tukaani.org/xz.git
 Web access:
 https://git.tukaani.org/?p=xz.git
 https://tukaani.org/xz/
-
-Based on version: 5.2.4 <b5be61cc06088bb07f488f9baf7d447ff47b37c1>
-  https://git.tukaani.org/?p=xz.git;a=commit;h=b5be61cc06088bb07f488f9baf7d447ff47b37c1
 
 From authors:
 
