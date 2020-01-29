@@ -105,6 +105,9 @@ lib/getopt.c -text
 lib/getopt.in.h -text
 lib/getopt1.c -text
 lib/getopt_int.h -text
+lib/x86-linux-gnu/liblzma.a -text
+lib/x86-linux-gnu/liblzma.la -text
+lib/x86-linux-gnu/liblzma.so.5.2.4 -text
 m4/ax_check_capsicum.m4 -text
 m4/ax_pthread.m4 -text
 m4/getopt.m4 -text
