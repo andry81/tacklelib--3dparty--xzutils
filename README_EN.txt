@@ -1,5 +1,5 @@
 * README_EN.txt
-* 2020.02.10
+* 2020.04.12
 * tacklelib--3dparty--xzutils
 
 1. DESCRIPTION
@@ -67,13 +67,13 @@ different free software licenses such as GNU LGPLv2.1, GNU GPLv2, or GNU GPLv3.
 3. REPOSITORIES
 -------------------------------------------------------------------------------
 Primary:
-  * https://sf.net/p/tacklelib/3dparty--xzutils/HEAD/tree/trunk
-    https://svn.code.sf.net/p/tacklelib/3dparty--xzutils/trunk
+  * https://sf.net/p/tacklelib/3dparty--xzutils/HEAD/tree/branches
+    https://svn.code.sf.net/p/tacklelib/3dparty--xzutils/branches
 First mirror:
-  * https://github.com/andry81/tacklelib--3dparty--xzutils/tree/trunk
+  * https://github.com/andry81/tacklelib--3dparty--xzutils/tree/branches
     https://github.com/andry81/tacklelib--3dparty--xzutils.git
 Second mirror:
-  * https://bitbucket.org/andry81/tacklelib-3dparty-xzutils/src/trunk
+  * https://bitbucket.org/andry81/tacklelib-3dparty-xzutils/src/branches
     https://bitbucket.org/andry81/tacklelib-3dparty-xzutils.git
 
 -------------------------------------------------------------------------------
