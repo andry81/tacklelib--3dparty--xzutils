@@ -1,0 +1,18 @@
+2020.04.12:
+* new: branch with the library changes at release 5.2.5 commit #2327a461e1afce862c22269b80d3517801103c1b (2020.03.17) from https://git.tukaani.org/?p=xz.git (https://git.tukaani.org/?p=xz.git;a=commit;h=2327a461e1afce862c22269b80d3517801103c1b )
+* changed: changes store retarget to branches instead of the trunk to be able to apply changes to multiple versions
+
+2020.02.10:
+* changed: readme update
+
+2020.01.30:
+* new: x86 library build on Linux Mint 18.3 x64
+
+2020.01.24:
+* changed: cutted off the version reference from the readme file as may change frequently
+
+2020.01.21:
+* new: library at release 5.2.4 commit #b5be61cc06088bb07f488f9baf7d447ff47b37c1 (2018.04.29) from https://git.tukaani.org/?p=xz.git (https://git.tukaani.org/?p=xz.git;a=commit;h=b5be61cc06088bb07f488f9baf7d447ff47b37c1 )
+* new: cmake list file
+* new: readme file
+* new: changelog file
